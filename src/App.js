@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter basename="/ReactProject">
+      <BrowserRouter basename="/E-commerce">
         <NavBAR favoritesCount={favoritesCount} cartCount={cartCount} />
         <br/>
         <br/>
